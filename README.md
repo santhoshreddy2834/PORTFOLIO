@@ -16,6 +16,9 @@ Retrieval-Augmented Generation (RAG)
 LLM Application Development
 
 Connect With Me :
+
 💼 LinkedIn: www.linkedin.com/in/kalusani-santhosh-reddy-b87212301
+
 🐙 GitHub: santhoshreddy2834
+
 ✉️ Email: santhoshreddy2834@gmail.com
