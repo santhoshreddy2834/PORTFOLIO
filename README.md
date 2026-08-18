@@ -7,7 +7,6 @@ About :
 I'm a Computer Science graduate (CSE - AI & ML, 2026) building systems that see, search, and reason. This portfolio highlights the projects I've shipped and the skills I'm currently developing in embeddings, vector search, and retrieval-augmented generation (RAG).
 
 Features:
-
 Responsive design across devices,
 Projects showcase section,
 About / skills section,
